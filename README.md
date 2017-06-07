@@ -29,5 +29,5 @@ Para o funcionamento deste projeto são necessárias as seguintes tecnologias:
  Demais informações sobre o framework estão na [documentação do Laravel](https://laravel.com/docs/5.4).<br>
  
  - **Outras configurações básicas**
-  - No arquivo _.env.example_ para _.env_ e alterar as configurações do acesso ao BD:<br>
+  - No arquivo _.env.example_ mude o nome para _.env_ e alterar as configurações do acesso ao BD:<br>
   
