@@ -1,0 +1,26 @@
+body,h1,h2,h3,h4,h5 {font-family: "Poppins", sans-serif}
+body {font-size:16px;}
+.w3-half img{margin-bottom:-6px;margin-top:16px;opacity:1;cursor:pointer}
+.w3-half img:hover{opacity:0.8}
+
+.w3-main .pagination>.active>a, .w3-main .pagination>.active>a:focus, .w3-main .pagination>.active>a:hover, .w3-main .pagination>.active>span, .w3-main .pagination>.active>span:focus, .w3-main .pagination>.active>span:hover {
+background-color: #f44336;
+    border-color: #f44336;
+
+}
+
+.w3-main .pagination>li>a, .pagination>li>span {
+    color: #f44336;
+}
+
+.carango-logo-comercial, .carango-logo-comercial:hover, .carango-logo-comercial:focus {
+    color: #fff;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+}
