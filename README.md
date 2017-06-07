@@ -30,4 +30,4 @@ Para o funcionamento deste projeto são necessárias as seguintes tecnologias:
  
  - **Outras configurações básicas**
   - No arquivo _.env.example_ mude o nome para _.env_ e alterar as configurações do acesso ao BD:<br>
-  
+  - A modelagem física do banco de dados sendo utilizado na aplicação pode ser encontrada [aqui](https://github.com/brunaNobre/Laravel_Project/blob/master/revenda_noite.sql)
