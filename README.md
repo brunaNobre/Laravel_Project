@@ -1,4 +1,4 @@
-# Laravel_Project
+# Projeto Laravel - Revenda de Carros
 Crud e Área Comercial de uma revenda de carros fictícia com Laravel
 
 # Configurações Necessárias #
