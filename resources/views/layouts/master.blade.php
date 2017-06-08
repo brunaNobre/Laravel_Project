@@ -52,7 +52,7 @@
         <a href="{{route('propostas.index')}}" class="w3-bar-item w3-button w3-padding"><i class="fa fa-money fa-fw"></i>  Propostas</a>
         <a href="{{route('carros.pesq')}}" class="w3-bar-item w3-button w3-padding"><i class="fa fa-search fa-fw"></i>  Pesquisar carros</a>
         <a href="{{route('carros.graf')}}" class="w3-bar-item w3-button w3-padding"><i class="fa fa-area-chart fa-fw"></i>  Gráficos</a>
-
+        <a href="{{route('clientes.create')}}" class="w3-bar-item w3-button w3-padding"><i class="fa fa-users fa-fw"></i>  Clientes</a>
     </div>
 </nav>
 

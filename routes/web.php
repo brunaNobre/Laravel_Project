@@ -17,6 +17,8 @@ Route::resource('admin/carros', 'CarroController');
 
 Route::resource('admin/marcas', 'MarcaController');
 
+Route::resource('admin/clientes', 'ClienteController');
+
 Route::resource('admin/propostas', 'PropostaController');
 
 Route::get('carrosfoto/{id}', 'CarroController@foto')
