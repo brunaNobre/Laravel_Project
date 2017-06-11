@@ -2,7 +2,7 @@
 
 @section('conteudo')
 
-    <script src="{{url('/js/jquery.mask.min.js')}}"></script>
+    <script src="{{url('/js/busca_cep.js')}}"></script>
 
     <div class='col-sm-11'>
         @if ($acao == 1)
